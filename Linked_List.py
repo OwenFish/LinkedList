@@ -4,7 +4,7 @@
 # 703-915-1306
 # 
 # Python implementation of a basic linked-list class with various methods 
-# designed for efficient data storage
+# designed for flexible data storage
 #
 
 class Linked_List:
